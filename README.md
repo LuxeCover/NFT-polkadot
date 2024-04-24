@@ -182,7 +182,7 @@ Please open a pull-request if you know how to fix this
 
 - Clone this repository
 ```bash
-git clone https://github.com/kodadot/uniquery.git
+git clone https://github.com/LuxeCover/NFT-polkadot.git
 
 ```
 
